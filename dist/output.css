@@ -1033,6 +1033,10 @@ video {
   font-weight: 500;
 }
 
+.uppercase {
+  text-transform: uppercase;
+}
+
 .leading-relaxed {
   line-height: 1.625;
 }
