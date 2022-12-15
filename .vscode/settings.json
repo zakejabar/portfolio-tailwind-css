@@ -5,5 +5,6 @@
   "zenMode.hideStatusBar": false,
   "zenMode.hideTabs": false,
   "zenMode.restore": false,
-  "zenMode.silentNotifications": false
+  "zenMode.silentNotifications": false,
+  "editor.tabSize": 10
 }
